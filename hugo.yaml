@@ -2,3 +2,6 @@ baseURL: https://geyets.com/
 languageCode: en-us
 title: Dima Geyets
 theme: ["PaperMod"]
+caches:
+  images:
+    dir: :cacheDir/images
