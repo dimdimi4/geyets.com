@@ -2,17 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:56585/</loc>
+    <loc>https://geyets.com/</loc>
     <lastmod>2025-07-15T19:55:31+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:56585/posts/my-first-post/</loc>
+    <loc>https://geyets.com/posts/</loc>
     <lastmod>2025-07-15T19:55:31+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:56585/posts/</loc>
-    <lastmod>2025-07-15T19:55:31+03:00</lastmod>
+    <loc>https://geyets.com/categories/</loc>
   </url><url>
-    <loc>http://localhost:56585/categories/</loc>
-  </url><url>
-    <loc>http://localhost:56585/tags/</loc>
+    <loc>https://geyets.com/tags/</loc>
   </url>
 </urlset>
